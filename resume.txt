@@ -1,0 +1,44 @@
+MADARAPU SATHWIKA
+♂phone+91 7981136626 ♂¶ap-¶arker-altHyderabad ✉ madarapusathwika9@gmail.com /linkedinlinkedin.com/in/sathwikamadarapu
+EDUCATION
+Vasavi College of Engineering, Hyderabad Aug 2019 – May 2023
+Bachelor of Engineering in Computer Science & Engineering 9.22 CGPA
+TECHNICAL SKILLS
+Backend: Node.js, Express.js, Fast API, GraphQL, REST APIs, MCP Servers, WebSocket, WebRTC
+Frontend: React, React Native, Next.js, Angular, CSS: Tailwind, SCSS
+Databases: SQL: PostgreSQL, MySQL; NoSQL: MongoDB, DynamoDB
+Cache / ORM: Memcached, Redis, TypeORM, Sequelize
+Architecture: Microservices, Event-driven, Serverless, Modular Monoliths
+Cloud / DevOps: AWS
+Testing: Jest, Supertest, Cypress
+Tools: Git, Postman, VSCode, Figma
+EXPERIENCE
+Senior Software Developer Nov 2024 – Present
+ScribeEMR Systems Private Limited, Hyderabad
+• Led full-stack development using ReactJS and NodeJS for multi-hospital patient management and scheduling
+workflows.
+• Implemented proximity-based nurse scheduling using Google Maps API and Five9 call automation.
+• Built cross-platform React Native health app with Health Connect, secure document uploads, and health profiling.
+• Developed AI-powered health copilot for conversational queries on medical reports, medications, and insurance.
+• Mentored junior developers and contributed to code reviews and architecture decisions.
+Software Engineer Feb 2023 – Nov 2024
+Brane Enterprises Private Limited, Hyderabad
+• Built internal ERP platform using Angular and Django, serving 2,000+ employees with role-based workflow
+modules.
+• Developed real-time productivity analytics dashboard using ReactJS and NodeJS for task allocation and time
+tracking.
+PROJECTS
+Finance Application Next.js, TypeScript, REST APIs, Tailwind CSS
+• Built MVP for finance platform from scratch with stock basket management, broker integration, and real-time
+trading workflows.
+• Designed modular Next.js UI with secure authentication and seamless third-party API integrations.
+Gradientflo – AI Learning Platform Next.js, Fast API, WebRTC, WebSocket, Tailwind CSS
+• Developed AI learning platform with Course Mode, Chat Mode, and Voice Mode for interactive, conversational
+education.
+• Implemented real-time voice/chat interactions using WebRTC and adaptive chatbot logic for personalized learning.
+CERTIFICATIONS
+• Programming in Java – NPTEL
+• Open Source Contributor – GSSOC
+ACHIEVEMENTS
+• Ranked among Top 20 out of 300+ participants in HackX Hackathon by Scaler.
+• Mentored 20+ students at DevIncept, providing hands-on technical guidance.
